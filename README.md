@@ -44,7 +44,7 @@ This repo uses a custom dataset that reflects HR and business use cases, with ta
 
 - `employees` — employee details (ID, name, department, etc.)
 - `departments` — department info
-- `salaries` — bonus, CTC, remarks
+- `salary` — bonus, CTC, remarks
 - `attendance` — in-time, out-time, present/absent
 
 ## 👩‍💻 My Role: Self-Driven Analyst in Training
