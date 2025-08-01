@@ -19,6 +19,10 @@ So I created this project using a custom dataset with tables like:
 - `salary`
 - `attendance`
 
+Below is the schema creation from my SQL Workbench:
+
+![Create Table - Employees](https://github.com/yashisingh-ds/sql-interview-prep-journal/blob/main/create%20table%20and%20select%20query%20.png)
+
 Each query is **interview-style**, built from **scratch**, and simulates real-time business cases from companies like Infosys, Accenture, Capgemini, TCS, Wipro, and more.
 
 ## 🧠 What's Covered (So Far)
